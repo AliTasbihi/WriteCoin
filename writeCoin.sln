@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "writeCoin_Lib", "writeCoin_Lib\writeCoin_Lib.csproj", "{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F} = {7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "service", "service\service.csproj", "{80D30495-06B0-4731-B311-A0F951FA9019}"
+	ProjectSection(ProjectDependencies) = postProject
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD} = {088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dataLayer", "dataLayer\dataLayer.csproj", "{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectCoinWriter", "TestProjectCoinWriter\TestProjectCoinWriter.csproj", "{48D127E1-C46F-4851-861E-BC77533993A5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD} = {088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088F3B4F-A9F0-4BBA-96B4-A9AAB24FAABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D30495-06B0-4731-B311-A0F951FA9019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D30495-06B0-4731-B311-A0F951FA9019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D30495-06B0-4731-B311-A0F951FA9019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D30495-06B0-4731-B311-A0F951FA9019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCBFE59-E73C-4C65-8DFE-4327A6445D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48D127E1-C46F-4851-861E-BC77533993A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D127E1-C46F-4851-861E-BC77533993A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D127E1-C46F-4851-861E-BC77533993A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D127E1-C46F-4851-861E-BC77533993A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A402397-60C2-433C-B1CA-280E158D55C9}
+	EndGlobalSection
+EndGlobal

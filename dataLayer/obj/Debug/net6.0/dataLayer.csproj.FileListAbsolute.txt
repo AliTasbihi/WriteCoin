@@ -1,0 +1,12 @@
+C:\Users\alita\Desktop\writeCoin\dataLayer\bin\Debug\net6.0\dataLayer.deps.json
+C:\Users\alita\Desktop\writeCoin\dataLayer\bin\Debug\net6.0\dataLayer.dll
+C:\Users\alita\Desktop\writeCoin\dataLayer\bin\Debug\net6.0\dataLayer.pdb
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.AssemblyInfoInputs.cache
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.AssemblyInfo.cs
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.dll
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\refint\dataLayer.dll
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.pdb
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\ref\dataLayer.dll

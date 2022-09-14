@@ -1,0 +1,58 @@
+2022-09-14 09:19:56.481 +04:30 [INF] Start Service WriteCoin
+2022-09-14 09:19:56.508 +04:30 [INF] Worker running at: "2022-09-14T09:19:56.5009791+04:30"
+2022-09-14 09:19:56.531 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 09:19:56.531 +04:30 [INF] Hosting environment: Development
+2022-09-14 09:19:56.531 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 09:19:57.545 +04:30 [INF] Worker running at: "2022-09-14T09:19:57.5452069+04:30"
+2022-09-14 09:19:58.551 +04:30 [INF] Worker running at: "2022-09-14T09:19:58.5516024+04:30"
+2022-09-14 09:19:59.566 +04:30 [INF] Worker running at: "2022-09-14T09:19:59.5662768+04:30"
+2022-09-14 09:20:00.596 +04:30 [INF] Worker running at: "2022-09-14T09:20:00.5962216+04:30"
+2022-09-14 09:20:01.602 +04:30 [INF] Worker running at: "2022-09-14T09:20:01.6023666+04:30"
+2022-09-14 09:21:04.421 +04:30 [INF] Start Service WriteCoin
+2022-09-14 09:21:04.460 +04:30 [INF] Worker running at: "2022-09-14T09:21:04.4479662+04:30"
+2022-09-14 09:21:04.513 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 09:21:04.513 +04:30 [INF] Hosting environment: Development
+2022-09-14 09:21:04.513 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 09:21:05.549 +04:30 [INF] Worker running at: "2022-09-14T09:21:05.5494052+04:30"
+2022-09-14 09:21:06.555 +04:30 [INF] Worker running at: "2022-09-14T09:21:06.5557149+04:30"
+2022-09-14 09:21:07.569 +04:30 [INF] Worker running at: "2022-09-14T09:21:07.5694935+04:30"
+2022-09-14 09:21:07.792 +04:30 [INF] Application is shutting down...
+2022-09-14 09:21:07.801 +04:30 [INF] Start Service WriteCoin
+2022-09-14 09:21:47.868 +04:30 [INF] Start Service WriteCoin
+2022-09-14 09:21:47.897 +04:30 [INF] Worker running at: "2022-09-14T09:21:47.8913093+04:30"
+2022-09-14 09:21:47.907 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 09:21:47.907 +04:30 [INF] Hosting environment: Development
+2022-09-14 09:21:47.907 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 09:21:48.914 +04:30 [INF] Worker running at: "2022-09-14T09:21:48.9142017+04:30"
+2022-09-14 09:21:49.928 +04:30 [INF] Worker running at: "2022-09-14T09:21:49.9286634+04:30"
+2022-09-14 09:21:50.942 +04:30 [INF] Worker running at: "2022-09-14T09:21:50.9425368+04:30"
+2022-09-14 09:21:51.955 +04:30 [INF] Worker running at: "2022-09-14T09:21:51.9553192+04:30"
+2022-09-14 09:21:52.967 +04:30 [INF] Worker running at: "2022-09-14T09:21:52.9672879+04:30"
+2022-09-14 09:21:53.975 +04:30 [INF] Worker running at: "2022-09-14T09:21:53.9753075+04:30"
+2022-09-14 09:21:54.982 +04:30 [INF] Worker running at: "2022-09-14T09:21:54.9819784+04:30"
+2022-09-14 09:22:32.402 +04:30 [INF] Start Service WriteCoin
+2022-09-14 09:22:32.448 +04:30 [INF] Worker running at: "2022-09-14T09:22:32.4302573+04:30"
+2022-09-14 09:22:32.464 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 09:22:32.464 +04:30 [INF] Hosting environment: Development
+2022-09-14 09:22:32.464 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 09:22:33.466 +04:30 [INF] Worker running at: "2022-09-14T09:22:33.4660222+04:30"
+2022-09-14 09:22:34.483 +04:30 [INF] Worker running at: "2022-09-14T09:22:34.4830912+04:30"
+2022-09-14 09:22:35.485 +04:30 [INF] Worker running at: "2022-09-14T09:22:35.4851811+04:30"
+2022-09-14 09:22:35.613 +04:30 [INF] Application is shutting down...
+2022-09-14 09:22:35.617 +04:30 [INF] Start Service WriteCoin
+2022-09-14 11:05:38.437 +04:30 [INF] Start Service WriteCoin
+2022-09-14 11:05:38.462 +04:30 [INF] Worker running at: "2022-09-14T11:05:38.4530782+04:30"
+2022-09-14 11:05:38.474 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 11:05:38.474 +04:30 [INF] Hosting environment: Development
+2022-09-14 11:05:38.474 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 11:05:39.482 +04:30 [INF] Application is shutting down...
+2022-09-14 11:05:39.525 +04:30 [INF] Worker running at: "2022-09-14T11:05:39.5249757+04:30"
+2022-09-14 11:05:39.529 +04:30 [INF] Start Service WriteCoin
+2022-09-14 11:12:25.958 +04:30 [INF] Start Service WriteCoin
+2022-09-14 11:12:25.987 +04:30 [INF] Worker running at: "2022-09-14T11:12:25.9780200+04:30"
+2022-09-14 11:12:25.998 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-14 11:12:25.998 +04:30 [INF] Hosting environment: Development
+2022-09-14 11:12:25.998 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service
+2022-09-14 11:12:27.008 +04:30 [INF] Worker running at: "2022-09-14T11:12:27.0085860+04:30"
+2022-09-14 11:12:27.799 +04:30 [INF] Application is shutting down...
+2022-09-14 11:12:27.823 +04:30 [INF] Start Service WriteCoin
