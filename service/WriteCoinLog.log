@@ -1,0 +1,6 @@
+2022-09-18 11:51:50.837 +04:30 [INF] Start Service WriteCoin
+2022-09-18 11:51:50.936 +04:30 [INF] Worker running at: "2022-09-18T11:51:50.9289271+04:30"
+2022-09-18 11:51:54.920 +04:30 [INF] Successful to add database{"config":{"data":"assets"},"data":[{"name":"Bitcoin","price":20081.29763857}]}
+2022-09-18 11:51:54.923 +04:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-18 11:51:54.923 +04:30 [INF] Hosting environment: Development
+2022-09-18 11:51:54.923 +04:30 [INF] Content root path: C:\Users\alita\Desktop\writeCoin\service

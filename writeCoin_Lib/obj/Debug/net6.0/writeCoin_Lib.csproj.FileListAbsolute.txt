@@ -10,3 +10,6 @@ C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\obj\Debug\net6.0\writeCoin_Lib.dl
 C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\obj\Debug\net6.0\refint\writeCoin_Lib.dll
 C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\obj\Debug\net6.0\writeCoin_Lib.pdb
 C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\obj\Debug\net6.0\ref\writeCoin_Lib.dll
+C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\bin\Debug\net6.0\dataLayer.dll
+C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\bin\Debug\net6.0\dataLayer.pdb
+C:\Users\alita\Desktop\writeCoin\writeCoin_Lib\obj\Debug\net6.0\writeCoin_Lib.csproj.CopyComplete

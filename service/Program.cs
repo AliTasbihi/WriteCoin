@@ -4,7 +4,7 @@ using service;
 
 
 
-string address = string.Join('\\', new[] { Directory.GetCurrentDirectory(), "WriteCoinLog.txt" });
+string address = string.Join('\\', new[] { Directory.GetCurrentDirectory(), "WriteCoinLog.log" });
 Log.Logger=new LoggerConfiguration()
     .MinimumLevel.Debug()
     .MinimumLevel.Override("Microsoft",LogEventLevel.Information)

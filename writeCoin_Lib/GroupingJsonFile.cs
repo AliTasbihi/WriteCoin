@@ -27,6 +27,6 @@ namespace writeCoin_Lib
     public class Data   
     {
         public string name { get; set; }
-        public string price { get; set; }
+        public object price { get; set; }
     }
 }

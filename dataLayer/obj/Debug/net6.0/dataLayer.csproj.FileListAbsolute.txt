@@ -10,3 +10,5 @@ C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.dll
 C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\refint\dataLayer.dll
 C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.pdb
 C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\ref\dataLayer.dll
+C:\Users\alita\Desktop\writeCoin\dataLayer\bin\Debug\net6.0\dataLayer.runtimeconfig.json
+C:\Users\alita\Desktop\writeCoin\dataLayer\obj\Debug\net6.0\dataLayer.genruntimeconfig.cache

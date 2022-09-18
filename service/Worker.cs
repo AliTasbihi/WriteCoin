@@ -17,7 +17,8 @@ public class Worker : BackgroundService
         while (!stoppingToken.IsCancellationRequested)
         {
             _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-            await Task.Delay(1000, stoppingToken);
+            var writeCoin = new writeCoin_Lib.WriteCoin();
+            await Task.Delay(1000*60, stoppingToken);
         }
     }
 
